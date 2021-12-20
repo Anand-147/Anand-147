@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anand-147
+- 👋 Hi, I’m @Anand SL
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 📫 contact me at anandsl147@gmail.com
